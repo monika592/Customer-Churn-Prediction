@@ -1,0 +1,7 @@
+Overall churn rate: 27.8% (1392 of 5000 customers)
+Highest churn by contract: 'Month-to-month' at 37.6% vs lowest 'Two year' at 8.5%
+Highest churn by internet_service: 'Fiber optic' at 36.6% vs lowest 'No' at 19.1%
+Highest churn by payment_method: 'Electronic check' at 33.3% vs lowest 'Credit card' at 24.1%
+Highest churn by tenure_group: '0-1yr' at 46.5% vs lowest '4-6yr' at 16.1%
+Highest churn by tech_support: 'No' at 30.2% vs lowest 'Yes' at 23.5%
+Numeric feature most correlated with churn: tenure_months (|r|=0.24)

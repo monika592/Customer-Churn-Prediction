@@ -1,0 +1,24 @@
+{
+  "best_model": "Logistic Regression",
+  "model_comparison": {
+    "Logistic Regression": {
+      "cv_auc_mean": 0.7826,
+      "cv_auc_std": 0.0109
+    },
+    "Random Forest": {
+      "cv_auc_mean": 0.7591,
+      "cv_auc_std": 0.0098
+    },
+    "Gradient Boosting": {
+      "cv_auc_mean": 0.767,
+      "cv_auc_std": 0.0054
+    }
+  },
+  "test_roc_auc": 0.7728,
+  "test_accuracy": 0.671,
+  "test_precision": 0.4435,
+  "test_recall": 0.7194,
+  "test_f1": 0.5487,
+  "train_rows": 4000,
+  "test_rows": 1000
+}
